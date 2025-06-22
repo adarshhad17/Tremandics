@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 ShipTracker Pro - Advanced Shipping Management System
 
 A stunning, modern shipping management application built with Next.js, React, and Tailwind CSS featuring a beautiful dark theme with gradient accents and comprehensive authentication system.
@@ -214,3 +215,7 @@ Perfect! I've created a stunning **ShipTracker Pro** application with everything
 - **Password:** `admin123`
 
 The application is production-ready with a complete authentication system, beautiful dark UI, and all the shipping management features you need. The design is modern, responsive, and perfect for impressing at your interview!
+=======
+# Tremandics
+A web app to manage and track shipments with role-based login, status updates, and delivery control.
+>>>>>>> f0af70bb0507fedcae17a3df231e2295586fb46e
